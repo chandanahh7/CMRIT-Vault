@@ -1,18 +1,15 @@
-name: Generate Contributors
-
+name: Contributors
 on:
+  schedule:
+    - cron: '0 1 * * 0' # At 01:00 on Sunday.
   push:
-    branches: [main]
-
+    branches:
+      - master
 jobs:
   contributors:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-
-      - name: Generate contributors list
-        uses: dawidd6/action-contributors@v1
+      - uses: wow-actions/contributors-list@v1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          file: CONTRIBUTORS.md   # output file
-          avatar_size: 50
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          svgPath: CONTRIBUTORS.svg
