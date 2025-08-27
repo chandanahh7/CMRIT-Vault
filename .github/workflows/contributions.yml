@@ -1,0 +1,22 @@
+name: Generate Contributors
+
+# Run this on every push to main
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout the repository
+      - uses: actions/checkout@v3
+
+      # Run the contributors action
+      - name: Generate Contributors
+        uses: UtSanjan/contributors-action@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          output-file: CONTRIBUTORS.md   # file to store contributors
+          avatar-size: 50                # avatar size in px
+          max-contributors: 50           # max contributors to display
