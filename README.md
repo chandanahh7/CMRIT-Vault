@@ -24,7 +24,7 @@ This repository follows a ```snake_case``` naming convention for directories thr
 All filenames must start with the year and it is also advised contributors to uniquely and appropriately name their files among the material. 
 
 ## Contribution
-Contributions are welcome and would love to help you upload resources in an organized manner. While contributing please take care of the following points -
+All Contributions are welcome and it is advised to upload resources in an organized manner. While contributing please take care of the following points -
 
 - Ensure that files are contributed to the exact folder where they belong.
 - Ensure that no duplicates are being uploaded.
