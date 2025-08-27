@@ -64,5 +64,5 @@ Please keep in mind that material is obtained with the permission of the author 
 
 ## Contributors
 
-![Contributors](CONTRIBUTORS.md)
+![Contributors](CONTRIBUTORS.svg)
 
