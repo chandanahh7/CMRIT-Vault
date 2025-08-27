@@ -1,4 +1,7 @@
 # <img width="50" height="50" alt="book_icon" src="https://github.com/user-attachments/assets/5447f3d4-2290-451a-b37d-2e1a4940ec97" />  VTU-Vault 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Objective
 VTU-Vault is an open-source repository of academic files for Visvishweshwaraiah Technology University i.e. VTU and VTU affiliated college students. These resources include lecture notes, question papers, course projects, study materials, tutorial solutions, etc. This repository aims to crowdsource said resources from the student body and create a common reference point to access academic resources. 
@@ -62,3 +65,9 @@ Please keep in mind that material is obtained with the permission of the author 
 ## Contributors
 
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
