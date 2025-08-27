@@ -58,8 +58,6 @@ Please keep in mind that material is obtained with the permission of the author 
       ```git push origin [name_of_your_new_branch]```
    6. Open a PR with the title ```Add resources [your github username]```
 
-## Maintainers
-
 ## Contributors
 
 ![Contributors](CONTRIBUTORS.svg)
