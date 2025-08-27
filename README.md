@@ -4,7 +4,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Objective
-VTU-Vault is an open-source repository of academic files for Visvishweshwaraiah Technology University i.e. VTU and VTU affiliated college students. These resources include lecture notes, question papers, course projects, study materials, tutorial solutions, etc. This repository aims to crowdsource said resources from the student body and create a common reference point to access academic resources. 
+CMRIT-Vault is an open-source repository of academic files for Visvishweshwaraiah Technology University i.e. CMRIT college students. These resources include lecture notes, question papers, course projects, study materials, tutorial solutions, etc. This repository aims to crowdsource said resources from the student body and create a common reference point to access academic resources. 
 
 ## Project Structure
 This repository has been designed to ensure maintainability and accessibilty. It aims to provide simplicity and avoid overheads associated with maintainence edits and fixes.<br>
