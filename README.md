@@ -1,7 +1,5 @@
 # <img width="50" height="50" alt="book_icon" src="https://github.com/user-attachments/assets/5447f3d4-2290-451a-b37d-2e1a4940ec97" />  CMRIT-Vault 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 
 ## Objective
 CMRIT-Vault is an open-source repository of academic files for CMRIT college students. These resources include lecture notes, question papers, course projects, study materials, tutorial solutions, etc. This repository aims to crowdsource said resources from the student body and create a common reference point to access academic resources. 
@@ -47,9 +45,9 @@ Please keep in mind that material is obtained with the permission of the author 
 
 - Option - 2 : Clone and PR
    If you have files larger than 100 Mb or not able to upload directly from browser you can use this method.
-   Fork this repository
+   ```Fork this repository```
    1. Clone your forked repository
-      ```git clone https://github.com/Sivaani-Janaswamy/VTU-Vault.git```
+      ```git clone https://github.com/Sivaani-Janaswamy/CMRIT-Vault.git```
    2. Create a branch in your local system with your branch name
       ```git checkout -b [name_of_your_new_branch]```
    3. Add materials
@@ -59,8 +57,6 @@ Please keep in mind that material is obtained with the permission of the author 
    5. Push into the branch
       ```git push origin [name_of_your_new_branch]```
    6. Open a PR with the title ```Add resources [your github username]```
-
-## Maintainers
 
 ## Contributors
 
