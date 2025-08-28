@@ -45,9 +45,9 @@ Please keep in mind that material is obtained with the permission of the author 
 
 - Option - 2 : Clone and PR
    If you have files larger than 100 Mb or not able to upload directly from browser you can use this method.
-   Fork this repository
+   ```Fork this repository```
    1. Clone your forked repository
-      ```git clone https://github.com/Sivaani-Janaswamy/VTU-Vault.git```
+      ```git clone https://github.com/Sivaani-Janaswamy/CMRIT-Vault.git```
    2. Create a branch in your local system with your branch name
       ```git checkout -b [name_of_your_new_branch]```
    3. Add materials
