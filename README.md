@@ -22,7 +22,7 @@ This repository has been designed to ensure maintainability and accessibilty. It
 This repository follows a ```snake_case``` naming convention for directories throughout the project. No capital letters must be used. No exceptions. Course Domain and Course Code should be according to VTU model conventions.
 
 ## File Nomenclature
-All filenames must start with the year and it is also advised contributors to uniquely and appropriately name their files among the material. 
+All filenames must have a unique and appropriate name to their files among the material.
 
 ## Contribution
 All Contributions are welcome and it is advised to upload resources in an organized manner. While contributing please take care of the following points -
